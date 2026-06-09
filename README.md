@@ -16,7 +16,7 @@ A collection of Claude skills I've built for my product design work. Each skill 
 
 | Skill | What it does | When to use it |
 |---|---|---|
-| [pair-design](./pair-design) | Applies the full Google PAIR (People + AI Research) Guidebook to any AI feature or product. Outputs a structured `.md` file with 8 sections: AI value assessment, onboarding copy, mental model design, explainability & trust, feedback mechanisms, error taxonomy, reward function analysis, and sprint-ready next actions. | Describe any AI feature or product you're designing or reviewing. The skill outputs a `.md` file — paste it directly into Notion for a clean, readable brief. |
+| [pair-design](./pair-design) | Applies the full Google PAIR (People + AI Research) Guidebook to any AI feature or product. Outputs a structured `.md` file with 8 sections: AI Value Assessment, Onboarding & Mental Model Design, Explainability & Trust Design, Feedback & Control Design, Error & Failure Design, Reward Function & Success Design, Watchouts, and Next Design Actions. | Describe any AI feature or product you're designing or reviewing. The skill outputs a `.md` file — paste it directly into Notion for a clean, readable brief. |
 
 ## More coming
 
